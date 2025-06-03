@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m a biologist and bioinformatics master’s student diving into the world of genomics 🧬. Currently, I’m focused on studying Klebsiella pneumoniae—tracking its transmission patterns and exploring ways to fight antibiotic resistance 🦠💪. Also adding a bit of AI in this thing 🤖.
+Hey there! I’m a biologist and  a bioinformatician diving into the world of genomics 🧬. Currently, I’m focused on studying Klebsiella pneumoniae—tracking its transmission patterns and exploring ways to fight antibiotic resistance 🦠💪. Also adding a bit of AI in this thing 🤖.
 
 
 ## 🌐 Socials:
